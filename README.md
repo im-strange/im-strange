@@ -1,4 +1,4 @@
-<img src="static/cat.gif">
+<img src="giphy.gif">
 
 <p align="center">
 
