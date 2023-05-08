@@ -1,4 +1,4 @@
-![](https://giphy.com/embed/j0HjChGV0J44KrrlGv.gif)
+<img src="static/cat.gif">
 
 <p align="center">
 
