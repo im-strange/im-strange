@@ -12,6 +12,8 @@
 
 </p>
 
+<br>
+
 - Conducting research on Ethical hacking.
 - Currently working on hacking tools development.
-- Open for collaboration and/or.
+- Open for collaboration and inquiries.
