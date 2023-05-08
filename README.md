@@ -1,3 +1,5 @@
+![](https://giphy.com/embed/j0HjChGV0J44KrrlGv.gif)
+
 <p align="center">
 
   <a href="https://github.com/im-strange">
