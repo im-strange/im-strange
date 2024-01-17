@@ -14,6 +14,6 @@
 
 <br>
 
-- Conducting research on Ethical hacking.
-- Currently working on hacking tools development.
+- Conducting research on Ethical hacking and Machine Learning.
+- Developing ML models and Ethical hacking tools.
 - Open for collaboration and inquiries.
