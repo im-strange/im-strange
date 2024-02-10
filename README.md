@@ -1,4 +1,4 @@
-<img src="giphy.gif">
+<img src="giphy.gif" align="center">
 
 <p align="center">
 
